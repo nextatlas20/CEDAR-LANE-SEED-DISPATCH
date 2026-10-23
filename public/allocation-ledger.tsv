@@ -1,0 +1,8 @@
+request_id	received_at	lot_id	variety	member	channel	packets_requested	packets_allocated	grams_allocated	status
+RQ-102	2105-02-03T08:30:00Z	LT-24	Lemon Cucumber	Jon Bell	web	2	2	30	FILLED
+RQ-101	2105-02-03T09:00:00Z	LT-11	Scarlet Runner Bean	Mara Velez	desk	3	3	75	FILLED
+RQ-104	2105-02-03T09:15:00Z	LT-42	Thai Basil	Dev Shah	desk	4	4	20	FILLED
+RQ-106	2105-02-03T09:30:00Z	LT-37	Blue Hopi Corn	An Bui	web	3	2	80	PARTIAL
+RQ-103	2105-02-03T10:00:00Z	LT-11	Scarlet Runner Bean	Inez Cho	web	4	2	50	PARTIAL
+RQ-105	2105-02-03T11:00:00Z	LT-24	Lemon Cucumber	Ola Reed	phone	2	1	15	PARTIAL
+RQ-107	2105-02-03T12:00:00Z	LT-11	Scarlet Runner Bean	Sol King	desk	1	0	0	WAITLIST
