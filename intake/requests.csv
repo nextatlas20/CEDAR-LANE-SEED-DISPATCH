@@ -1,0 +1,13 @@
+request_id,received_at,lot_id,packets_requested,member,channel
+RQ-101,2105-02-03T09:00:00Z,LT-11,3,Mara Velez,desk
+RQ-102,2105-02-03T08:30:00Z,LT-24,2,Jon Bell,web
+RQ-103,2105-02-03T10:00:00Z,LT-11,4,Inez Cho,web
+RQ-104,2105-02-03T09:15:00Z,LT-42,4,Dev Shah,desk
+RQ-105,2105-02-03T11:00:00Z,LT-24,2,Ola Reed,phone
+RQ-106,2105-02-03T09:30:00Z,LT-37,3,An Bui,web
+RQ-107,2105-02-03T12:00:00Z,LT-11,1,Sol King,desk
+RQ-108,2105-02-04T00:00:01Z,LT-42,1,Nia Fox,web
+RQ-109,2105-02-03T08:00:00Z,LT-99,2,Uma Ray,desk
+RQ-110,2105-02-03 08:10:00Z,LT-37,1,Bo Lane,phone
+RQ-111,2105-02-03T08:20:00Z,LT-24,0,Eli Moss,web
+RQ-112,2105-02-03T08:25:00Z,LT-42,1,,desk
